@@ -1,0 +1,9 @@
+rules:
+  - DOMAIN-SUFFIX,api.acaisbest.shop
+  - DOMAIN,my.niceduck.io
+  - DOMAIN,tv.micu.hk
+  - DOMAIN,tv1.micu.hk
+  - DOMAIN-SUFFIX,wd-gold.com
+  - DOMAIN-SUFFIX,wd-cloud.net
+  - DOMAIN-SUFFIX,yxvm.com
+  

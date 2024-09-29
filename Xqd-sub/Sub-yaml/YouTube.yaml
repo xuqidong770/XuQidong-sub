@@ -1,0 +1,13 @@
+rules:
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN,youtubei.googleapis.com
+  - DOMAIN,yt3.ggpht.com
+  - 
+  - # YouTubeMusic
+  - USER-AGENT,*YouTubeMusic*
+  - USER-AGENT,*com.google.ios.youtubemusic*
+  - USER-AGENT,YouTubeMusic*
+  - USER-AGENT,com.google.ios.youtubemusic*
+  - DOMAIN,music.youtube.com
