@@ -178,3 +178,4 @@ rules:
   - IP-CIDR,207.211.186.139/32
   - DOMAIN-SUFFIX,029902.xyz
   - DOMAIN,581658.best
+  - DOMAIN-SUFFIX,nanflix.net
