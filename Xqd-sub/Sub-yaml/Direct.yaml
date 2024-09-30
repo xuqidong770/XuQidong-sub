@@ -7,4 +7,5 @@ rules:
   - DOMAIN-SUFFIX,wd-cloud.net
   - DOMAIN-SUFFIX,yxvm.com
   - DOMAIN-SUFFIX,wynu.edu.cn
+  - DOMAIN-SUFFIX,edu.cn
   
