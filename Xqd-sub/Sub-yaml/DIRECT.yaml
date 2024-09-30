@@ -6,4 +6,5 @@ rules:
   - DOMAIN-SUFFIX,wd-gold.com
   - DOMAIN-SUFFIX,wd-cloud.net
   - DOMAIN-SUFFIX,yxvm.com
+  - DOMAIN-SUFFIX,wynu.edu.cn
   
